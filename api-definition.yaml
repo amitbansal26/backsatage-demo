@@ -1,11 +1,11 @@
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
-  name: petstore
-  description: The Petstore API
+  name: registry
+  description: ONDC Registry API
 spec:
   type: openapi
   lifecycle: production
-  owner: petstore@example.com
+  owner: amitbansal26@gmail.com
   definition:
     $text: https://github.com/amitbansal26/backsatage-demo/blob/main/ondc-registry.yaml
