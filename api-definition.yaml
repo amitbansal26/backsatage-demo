@@ -8,4 +8,4 @@ spec:
   lifecycle: production
   owner: amitbansal26@gmail.com
   definition:
-    $text: https://github.com/amitbansal26/backsatage-demo/blob/main/ondc-registry.yaml
+    $text: https://raw.githubusercontent.com/amitbansal26/backsatage-demo/refs/heads/main/ondc-registry.yaml
