@@ -1,4 +1,4 @@
-tatsite_name: ONDC Developer Docs
+site_name: ONDC Developer Docs
 site_description: Developer Documentation
 plugins:
   - techdocs-core
