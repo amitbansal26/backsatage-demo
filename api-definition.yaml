@@ -3,6 +3,7 @@ kind: API
 metadata:
   name: registry
   description: ONDC Registry API
+  backstage.io/techdocs-ref: dir:.
 spec:
   type: openapi
   lifecycle: production
